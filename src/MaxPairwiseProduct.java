@@ -32,6 +32,7 @@ public class MaxPairwiseProduct {
             numbers[i] = scanner.nextInt();
         }
         System.out.println(getMaxPairwiseProduct(numbers));
+
     }
 
     static class FastScanner {
